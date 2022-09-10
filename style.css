@@ -5,6 +5,7 @@ outline: none;
 }
 body {
 background-color: #7bdaf3;
+height: auto;  
 font-family: 'Poppins', sans-serif;
 display: flex;
 flex-wrap: wrap;
